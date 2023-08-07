@@ -14,6 +14,7 @@ This helps in maintaining data integrity and preventing any erroneous entries.
 The system can load student data from a CSV file.
 Below is a sample of the data in the CSV file format:
 Vijay,23,A,21,vi56@gmail.com,7889454562
+
 Hema,20,C,22,he23@gmail.com,4546464640
 Ginny,67,H,33,ginny@gmail.com,5613216511
 
