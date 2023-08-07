@@ -16,6 +16,7 @@ Below is a sample of the data in the CSV file format:
 Vijay,23,A,21,vi56@gmail.com,7889454562
 
 Hema,20,C,22,he23@gmail.com,4546464640
+
 Ginny,67,H,33,ginny@gmail.com,5613216511
 
 Each line in the CSV file represents a student with their respective name, roll number, grade, age, email, and mobile number. 
